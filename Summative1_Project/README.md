@@ -1,4 +1,4 @@
-# ProjectOne
+# Project One
 The project implements the following user stories:
 
 - As an API user, I want to request a random quote so that I can expand my knowledge.
