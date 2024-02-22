@@ -1,4 +1,4 @@
-# Project 2
+# Project Two
 This Project implement the following user stories:
 
 - As an API user, I would like to create, read, update, and delete authors.
